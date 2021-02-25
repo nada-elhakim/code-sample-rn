@@ -1,0 +1,212 @@
+{
+  "navigationTabs": {
+    "home": "Home",
+    "articles": "Articles",
+    "assets": "Assets",
+    "promotion": "Promotion",
+    "gameCenter": "Game center"
+  },
+  "home": {
+    "withdraw": "Transfer out",
+    "recharge": "Receipt",
+    "finances": "Manage Finances",
+    "transfer": "Transfer",
+    "marketValue": "Market value",
+    "totalAssets": "Total assets",
+    "noBalance": "No balance"
+  },
+  "tradePassword": {
+    "title": "Enter pin",
+    "confirmTradePasswordTitle": "confirm pin",
+    "description": "Some description here Some description here Some description here Some description here",
+    "enterTradePassword": "Please set a new transaction password",
+    "confirmTradePassword": "Confirm Pin Code",
+    "enterOldTradePassword": "Enter old trade password",
+    "passwordChangeSuccess": "Password changed successfully",
+    "passwordSetSuccess": "Password set successfully",
+    "errors": {
+      "tradePasswordMismatch": "Two password entries are not the same",
+      "tradePasswordLength": "Trade password must be at least 6 characters",
+      "tradePasswordRequired": "Trade password required",
+      "tradePasswordOnlyNumbers": "Only numbers are allowed"
+    }
+  },
+  "assets": {
+    "menu": {
+      "transaction": "Transactions",
+      "candyBox": "Candy box",
+      "uCoin": "U coin",
+      "uReturn": "U return",
+      "recharge": "Recharge",
+      "coin": "Withdraw",
+      "safety": "Safety",
+      "promotionCenter": "Promotion",
+      "applicationCenter": "Application",
+      "gameCenter": "Game",
+      "kyc": "Kyc",
+      "vip": {
+        "nextUpdate": "Next update"
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "options": {
+      "changePassword": "Change password",
+      "changeLoginPassword": "Change login password",
+      "changeTradePassword": "Change trade password",
+      "invite": "Invite",
+      "changeLanguage": "Change language",
+      "joinCommunity": "Join community"
+    }
+  },
+  "transactions": {
+    "title": "Transactions",
+    "noTransactions": "You don't have transaction history"
+  },
+  "uCoin": {
+    "title": "U Coin treasure",
+    "incomeDetails": "Income details",
+    "cumulativeIncome": "Cumulative income",
+    "incomeProducts": "Income products",
+    "holdings": "Holdings",
+    "returnRate": "Return rate",
+    "productTerm": "Product term",
+    "productTermPeriod": "Product term {{period}} days",
+    "launch": "Launch",
+    "approximately": "approx.",
+    "annualRate": "Annual rate",
+    "transferIn": "Transfer",
+    "transferOut": "Transfer out",
+    "buy": "Buy",
+    "day": "Day",
+    "availableBalance": "Available balance",
+    "affordableShare": "You can currently buy",
+    "share": "share",
+    "holderCount": "Holder count",
+    "usePurchase": "USE purchase",
+    "minThreshold": "Min threshold",
+    "useStarting": "Product term",
+    "tradeTerms": "Trade terms",
+    "tradeTermsText1": "Cannot be revoked after purchase, cannot be taken out before expiration",
+    "tradeTermsText2": "Assets are automatically transferred to the wallet balance within one trading day after expiration",
+    "tradeTermsText3": "After the product is purchased successfully, USE will deduct the balance from the U currency.",
+    "tradeTermsText4": "If the available balance is insufficient, you need to transfer the USE in the wallet to the U coin before purchasing.",
+    "enterPurchaseAmount": "Please enter the purchase amount",
+    "transactionTypes": {
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "buy": "Purchase",
+      "principal": "Principal",
+      "reward": "Reward",
+      "interest": "Interest",
+      "periodReward": "Period reward",
+      "fromUReward": "From U reward",
+      "toUReward": "To U reward",
+      "fromUCoin": "From U Coin",
+      "toUCoin": "To U Coin"
+    },
+    "holdingAmount": "Invested",
+    "buyCoinSuccess": "Coin successfully bought",
+    "transferInSuccess": "Coin transfer in success",
+    "transferOutSuccess": "Coin transfer out success"
+  },
+  "uReturn": {
+    "title": "u return",
+    "currencyHistory": "Return currency history",
+    "buy": "Buy",
+    "enterNumberOfPurchases": "Please enter number of purchases",
+    "confirmPurchase": "Confirm purchase",
+    "numberOfPeriods": "Number of periods",
+    "purchaseAmount": "Amount",
+    "purchaseTotalCost": "Total cost",
+    "purchaseTerms": "Purchase terms",
+    "inCurrentWallet": "In current wallet",
+    "productListTitle": "The following products can be purchased",
+    "numberOfRemainingPeriods": "Remaining periods",
+    "residualRebate": "Residual rebate",
+    "noHoldings": "No holdings",
+    "depositTreasure": "Deposit to treasure",
+    "depositWallet": "Deposit to balance",
+    "enterEthAmount": "Enter ETH amount",
+    "product": "Product",
+    "withdraw": "Withdraw",
+    "maxAmountEth": "Can't buy products larger than {{balance}} ETH",
+    "buyCoinSuccess": "Reward successfully bought",
+    "transferSuccess": "Coin transfer success"
+  },
+  "recharge": {
+    "title": "Recharge",
+    "copy": "Copy"
+  },
+  "withdraw": {
+    "title": "Withdraw",
+    "withdraw": "Withdraw",
+    "withdrawFee": "Withdraw fee",
+    "minAmount": "Minimum coin amount is {{amount}}",
+    "withdrawSuccess": "Withdraw success",
+    "enterAddress": "Enter address"
+  },
+  "security": {
+    "title": "Security",
+    "changePassword": "Change password",
+    "changePin": "Change PIN"
+  },
+  "kyc": {
+    "title": "KYC",
+    "enterId": "Please enter identification number",
+    "enterName": "Please enter name",
+    "uploadIdFront": "Please upload the ID card front",
+    "uploadIdBack": "Please upload the reverse side of the ID card",
+    "updateSuccess": "kyc successfully updated",
+    "pass": "Examination passed",
+    "pending": "Under review",
+    "fail": "Audit failure"
+  },
+  "qrCodeScanner": {
+    "title": "withdraw"
+  },
+  "language": {
+    "title": "Change language"
+  },
+  "messages": {
+    "title": "Messages",
+    "noMessages": "You don't have messages"
+  },
+  "promotionCenter": {
+    "title": "Promotion",
+    "dailyAirdropAmount": "Daily airdrops",
+    "remainingAirdropDays": "Remaining airdrops",
+    "invited": "Invited",
+    "needToInvite": "Need to invite",
+    "copyPromotionCode": "Copy promotion code",
+    "codeCopied": "Promotion code copied",
+    "people": "person",
+    "day": "day",
+    "RewardRules": {
+      "title": "Reward rules",
+      "desc": "Invite new users to register successfully to log in to the app, and accumulate a certain number of people, activate daily airdrop rewards",
+      "rule1": "New users use this promotion code to register and log in for the first time, which is effective for inviting users.",
+      "rule2": "Invite users to reach {{targetInvite}} people, will activate daily airdrop rewards",
+      "rule3": "Successfully invite 1 user, you will receive daily {{airdropUSE}}USE airdrop reward for {{airdropDays}} days",
+      "rule4": "For each new user invited, the number of days of airdrop rewards will increase by {{airdropDays}} days, but the daily USE airdrop award amount remains the same."
+    }
+  },
+  "transferStation": {
+    "title": "Transfer",
+    "enterAmount": "Please enter amount",
+    "transfer": "Transfer",
+    "transferSuccess": "Transfer success",
+    "maxTransferAmount": "Can't transfer more than {{balance}}",
+    "memo": "Please add a note",
+    "enterAddress": "Please enter the withdrawal address or mobile number"
+  },
+  "joinCommunity": {
+    "title": "Join community",
+    "wechatNumber": "Wechat number",
+    "telegramGroup": "Telegram group"
+  },
+  "versionUpdate": {
+    "title": "New version update"
+  }
+}

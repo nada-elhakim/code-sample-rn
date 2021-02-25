@@ -1,0 +1,219 @@
+{
+  "navigationTabs": {
+    "home": "首页",
+    "articles": "新闻",
+    "assets": "资产",
+    "promotion": "推广",
+    "gameCenter": "游戏中心"
+  },
+  "home": {
+    "withdraw": "提币",
+    "recharge": "收款",
+    "finances": "U理财",
+    "transfer": "转账",
+    "marketValue": "数字资产",
+    "totalAssets": "总资产",
+    "noBalance": "没有平衡"
+  },
+  "tradePassword": {
+    "title": "安全 ",
+    "confirmTradePasswordTitle": "confirm pin",
+    "description": "所有涉及资金操作的地方，都会用到该密码，请妥善保管您的交易密码",
+    "enterTradePassword": "请设置新的交易密码",
+    "confirmTradePassword": "确认交易密码",
+    "enterOldTradePassword": "输入旧的交易密码",
+    "passwordChangeSuccess": "密码更换成功",
+    "passwordSetSuccess": "密码设置成功",
+    "errors": {
+      "tradePasswordMismatch": "密码不匹配",
+      "tradePasswordLength": "交易易密码必须为6位",
+      "tradePasswordRequired": "必填",
+      "tradePasswordOnlyNumbers": "只允许数字"
+    }
+  },
+  "assets": {
+    "menu": {
+      "transaction": "交易明细",
+      "candyBox": "糖果盒子",
+      "uCoin": "U理财",
+      "uReturn": "U返宝",
+      "recharge": "充值",
+      "coin": "提币",
+      "safety": "安全",
+      "promotionCenter": "推广中心",
+      "applicationCenter": "应用中心",
+      "gameCenter": "游戏中心",
+      "kyc": "Kyc"
+    },
+    "vip": {
+      "nextUpdate": "距离下次更新还有"
+    }
+  },
+  "settings": {
+    "title": "设置",
+    "options": {
+      "changePassword": "安全设置",
+      "changeLoginPassword": "修改登录密码",
+      "changeTradePassword": "修改交易密码",
+      "invite": "我的邀请",
+      "changeLanguage": "切换语言",
+      "joinCommunity": "加入社群"
+    }
+  },
+  "transactions": {
+    "title": "交易明细",
+    "noTransactions": "没有交易",
+    "transactionTypes": {
+      "withdraw": "提币",
+      "deposit": "充值",
+      "internal": "站内转账",
+      "external": "充值"
+    }
+  },
+  "uCoin": {
+    "title": "U理财",
+    "incomeDetails": "收支明细",
+    "cumulativeIncome": "累积收益",
+    "incomeProducts": "固定收益产品",
+    "holdings": "固定收益持仓",
+    "returnRate": "七日年化收益率",
+    "productTerm": "产品期限",
+    "productTermPeriod": "产品期限 {{period}}天",
+    "launch": "30USE起投",
+    "approximately": "近",
+    "annualRate": "预期年化收益率",
+    "transferOut": "转出",
+    "transferIn": "转⼊",
+    "buy": "购买",
+    "day": "天",
+    "availableBalance": "可用余额",
+    "affordableShare": "您当前可以购买",
+    "share": "份",
+    "holderCount": "人购买",
+    "usePurchase": "USE起购",
+    "minThreshold": "工作日申赎",
+    "useStarting": "产品期限",
+    "tradeTerms": "交易规则",
+    "tradeTermsText1": "买入后不可撤销，到期前不可取出",
+    "tradeTermsText2": "到期后一个交易日内，资产自动转出至钱包余额",
+    "tradeTermsText3": "产品购买成功后，USE将会从U理财余额扣除",
+    "tradeTermsText4": "如可购买余额不足，需先将钱包中USE转入U理财后，再进行购买",
+    "enterPurchaseAmount": "请输入购买金额",
+    "transactionTypes": {
+      "deposit": "转⼊",
+      "withdraw": "转出",
+      "buy": "购买产品",
+      "principal": "收益发放",
+      "reward": "U返宝转⼊",
+      "interest": "收益发放",
+      "periodReward": "分期返还",
+      "fromUReward": "从U返宝转⼊",
+      "toUReward": "转出到U返宝",
+      "fromUCoin": "从U理财转⼊",
+      "toUCoin": "转出到U理财"
+    },
+    "holdingAmount": "已投",
+    "returnDue": "到期返还",
+    "buyCoinSuccess": "购买成功",
+    "transferSuccess": "转出成功",
+    "transferInSuccess": "转入成功",
+    "transferOutSuccess": "转出成功"
+  },
+  "uReturn": {
+    "title": "U返宝",
+    "currencyHistory": "返币历史",
+    "buy": "购买",
+    "enterNumberOfPurchases": "请输入购买份数",
+    "confirmPurchase": "确认购买",
+    "numberOfPeriods": "期数",
+    "purchaseAmount": "购买",
+    "purchaseTotalCost": "总计将花费",
+    "purchaseTerms": "购买注意事项",
+    "inCurrentWallet": "当前钱包中有",
+    "productListTitle": "可购买如下产品",
+    "numberOfRemainingPeriods": "剩余期数",
+    "residualRebate": "剩余返利",
+    "noHoldings": "控股清单为空",
+    "depositTreasure": "存到币宝",
+    "depositWallet": "提到钱包",
+    "enterEthAmount": "请输入eth数",
+    "product": "产品",
+    "withdraw": "转出",
+    "maxAmountEth": "不能购买大于{{balance}} ETH的产品",
+    "buyCoinSuccess": "奖励成功购买"
+  },
+  "recharge": {
+    "title": "收款",
+    "copy": "复制"
+  },
+  "withdraw": {
+    "title": "提币",
+    "withdraw": "提币",
+    "withdrawFee": "手续费",
+    "minAmount": "最⼩提币额为{{amount}}",
+    "withdrawSuccess": "提币成功",
+    "enterAddress": "请输入提币地址"
+  },
+  "security": {
+    "title": "安全",
+    "changePassword": "修改登录密码",
+    "changePin": "修改交易密码"
+  },
+  "kyc": {
+    "title": "KYC",
+    "enterId": "请输入身份证号",
+    "enterName": "请输入姓名",
+    "uploadIdFront": "请上传身份证正面",
+    "uploadIdBack": "请上传身份证反面",
+    "updateSuccess": "kyc成功更新",
+    "pass": "审核通过",
+    "pending": "审核中",
+    "fail": "审核失败"
+  },
+  "qrCodeScanner": {
+    "title": "提现"
+  },
+  "language": {
+    "title": "改变语言"
+  },
+  "messages": {
+    "title": "消息中心",
+    "noMessages": "您还没有任何消息"
+  },
+  "promotionCenter": {
+    "title": "推广中心",
+    "dailyAirdropAmount": "每日空投数",
+    "remainingAirdropDays": "剩余空投天数",
+    "invited": "已邀请",
+    "needToInvite": "还需邀请",
+    "copyPromotionCode": "复制推广码",
+    "codeCopied": "邀请码已复制到剪贴板",
+    "people": "人",
+    "day": "天",
+    "RewardRules": {
+      "title": "奖励规则",
+      "desc": " 邀请新用户注册成功登录App，并累计达到一定人数，可激活每日空投奖励",
+      "rule1": "新用户使用此推广码注册，并首次登录成功，既为有效邀请用户",
+      "rule2": "邀请用户累计达到{{targetInvite}}人，将会激活每日空投奖励",
+      "rule3": "成功邀请1名用户，将会获得每日{{airdropUSE}}USE空投奖励，持续{{airdropDays}}天",
+      "rule4": "每新邀请1名用户，空投奖励持续天数将增加{{airdropDays}}天，但每日USE空投奖励数额不变"
+    }
+  },
+  "transferStation": {
+    "title": "转账",
+    "enterAmount": "请输入转账数量",
+    "transfer": "转账",
+    "transferSuccess": "转账成功",
+    "maxTransferAmount": "不能转移超过{{balance}}",
+    "memo": "请添加备注",
+    "enterAddress": "请输入转账地址或手机号码"
+  },
+  "joinCommunity": {
+    "title": "加⼊社群",
+    "wechatNumber": "微信号",
+    "telegramGroup": "电报群"
+  },
+  "versionUpdate": {
+    "title": "版本更新"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "brand": {
+    "name": "Pyramid",
+    "slogan": "Next generation decentralized storage protocol"
+  },
+  "interface": {
+    "account": "My account",
+    "next": "Continue",
+    "balance": "Balance",
+    "skip": "Skip step",
+    "update": "Update",
+    "comingSoon": "Coming soon",
+    "copy": "Copy",
+    "max": "Max",
+    "send": "Send",
+    "address": "Address",
+    "amount": "Amount",
+    "state": "State",
+    "withdraw": "Withdraw",
+    "currency": "Currency",
+    "language": "Language",
+    "ui": "UI",
+    "save": "Save",
+    "cancel": "Cancel",
+    "disk": "Disk",
+    "done": "Done",
+    "logout": "Logout from {{account}}",
+    "diskSerial": "Disk serial",
+    "copiedToCB": "Copied to clipboard",
+    "netTest": "Test net",
+    "online": "Working",
+    "offline": "Stopped",
+    "ensure": "Ensure",
+    "ok": "Ok",
+    "confirm": "Confirm",
+    "loadMore": "Load more...",
+    "copyAll": "Copy all",
+    "enterTransferAmount": "Enter transfer amount",
+    "walletAddress": "You wallet address",
+    "enterWalletAddress": "Please enter the withdrawal address",
+    "submit": "Submit",
+    "addressCopied": "Address copied",
+    "walletAddressTips": "Tip: Only support ETH, USE, CUSE Assets, please do not transfer non-ETH, USE, CUSE assets to the current wallet address",
+    "addressRequired": "Address required",
+    "amountRequired": "Amount required",
+    "tradePassword": "Trade password",
+    "day": "day",
+    "month": "month",
+    "copied": "Copied",
+    "period": "period",
+    "noCameraPermission": "Qrcode scanner requires camera permission",
+    "openSettings": "Open settings",
+    "checkingAuthStatus": "Checking authentication",
+    "determine": "ok",
+    "qrCodeScanner": "Scan QR code",
+    "weibo": "Weibo",
+    "wechat": "Wechat",
+    "wechatNotInstalled": "Wechat not installed"
+  },
+  "errors": {
+    "genericError": "Something went wrong",
+    "noNetwork": "No network",
+    "networkTimeout": "Network timeout"
+  },
+  "networkErrors": {
+    "somethingWentWrong": "Something went wrong. Please try again",
+    "tokenExpired": "Token expired",
+    "installNewUpdate": "Your current version is outdated. Please restart the app to update"
+  },
+  "transferAmountField": {
+    "minThresholdError": "Amount must be more than {{min}}",
+    "decimalsNotAllowed": "Decimals not allowed"
+  }
+
+}
